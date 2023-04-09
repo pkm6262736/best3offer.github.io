@@ -9,6 +9,24 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.col-lg-69 {text-align: justify;
+  
+          
+}
+.btn btn-primary{
+  text-decoration: none;
+}
+
+@media (min-width: 991px) {
+  #pppp {
+    padding: 0px 150px;
+  }
+
+}
+
+/* #pppp{
+  padding: 250px;
+} */
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -512,7 +530,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 10px 0;
   overflow: hidden;
 }
 
